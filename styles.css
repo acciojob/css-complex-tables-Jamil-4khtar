@@ -1,8 +1,9 @@
 table{
 	border: 0px 0px 1px 1px solid orange;
-	padding: 0px 0px 1px 1px;
+	border-collapse: collapse;
 }
 thead {
+	border: 0px 0px 1px 1px;
 	background-color: #888888;
 	color: white;
 }
